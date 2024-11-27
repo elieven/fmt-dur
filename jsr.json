@@ -1,0 +1,6 @@
+{
+  "name": "@elieven/fmt-dur",
+  "license": "MIT",
+  "version": "1.0.3",
+  "exports": "./index.ts"
+}

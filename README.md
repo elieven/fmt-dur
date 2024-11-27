@@ -80,6 +80,10 @@ format(1000 * 60 * 60 * 24 - 1, { ms: true }) // '23:59:59.999'
 format(1000 * 60 * 60, { ms: true, msDigits: 2 }) // '1:00:00.00'
 ```
 
+## Attribution
+
+This is a TS port of [https://github.com/ungoldman/format-duration](https://github.com/ungoldman/format-duration) with the extra option of `msDigits`.
+
 ## Contributing
 
 Contributions are welcome!

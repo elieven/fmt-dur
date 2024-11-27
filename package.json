@@ -1,0 +1,30 @@
+{
+  "name": "fmt-dur",
+  "description": "Format milisecond durations to a human-readable standard string.",
+  "author": {
+    "name": "elieven",
+    "email": "elieven@protonmail.com"
+  },
+  "version": "1.0.0",
+  "module": "index.ts",
+  "type": "module",
+  "keywords": [
+    "display",
+    "duration",
+    "format",
+    "hh:mm:ss",
+    "hours",
+    "milliseconds",
+    "mm:ss",
+    "seconds",
+    "time"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@biomejs/biome": "1.9.4",
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
